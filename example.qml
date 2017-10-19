@@ -1,6 +1,6 @@
-import QEMEL 1.0
+import QEMEL.Objects 1.0 as QO
 
-Person {
+QO.Person {
     name: "Bob Jones"
     shoeSize: 12
 }

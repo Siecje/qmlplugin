@@ -1,2 +1,2 @@
-module QEMEL
+module QEMEL.Objects
 plugin pyqt5qmlplugin
